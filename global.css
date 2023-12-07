@@ -1,0 +1,29 @@
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.center {
+  text-align: center;
+}
+.inline {
+  display: inline-flex;
+}
+.center-horiz {
+  display: flex;
+  justify-content: center;
+}
+.center-vertical{
+  display: flex;
+  align-items: center;
+}
+.left{
+  text-align:left;
+}
+.mobile {
+  display: none;
+}

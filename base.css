@@ -1,0 +1,10 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  width: 80%;
+  max-width: 2000px;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
